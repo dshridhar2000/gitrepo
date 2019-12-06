@@ -1,3 +1,3 @@
 select * from dept;
 select discinct name from emp;
-select * from emp1;
+select * from emp2;
