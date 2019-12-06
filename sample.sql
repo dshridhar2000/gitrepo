@@ -1,2 +1,2 @@
-select * from emp;
-select sysdate from dual;
+select * from dept;
+select discinct name from emp;
